@@ -77,17 +77,12 @@ class BinaryStrOperationTests(BinaryOperationTestCase, TranspileTestCase):
         'test_lt_complex',
         'test_lt_frozenset',
 
-        'test_modulo_bool',
         'test_modulo_bytearray',
         'test_modulo_bytes',
         'test_modulo_class',
         'test_modulo_complex',
-        'test_modulo_float',
         'test_modulo_frozenset',
-        'test_modulo_int',
         'test_modulo_set',
-        'test_modulo_str',
-        'test_modulo_tuple',
 
         'test_multiply_bytes',
 
@@ -177,17 +172,12 @@ class InplaceStrOperationTests(InplaceOperationTestCase, TranspileTestCase):
         'test_lshift_complex',
         'test_lshift_frozenset',
 
-        'test_modulo_bool',
         'test_modulo_bytearray',
         'test_modulo_bytes',
         'test_modulo_class',
         'test_modulo_complex',
-        'test_modulo_float',
         'test_modulo_frozenset',
-        'test_modulo_int',
         'test_modulo_set',
-        'test_modulo_str',
-        'test_modulo_tuple',
 
         'test_multiply_bytearray',
         'test_multiply_bytes',
